@@ -1,0 +1,9 @@
+[submodule "ECAC-BlockChain"]
+	path = ECAC-BlockChain
+	url = https://github.com/ECAC-Education-Cert-And-Community/ECAC-BlockChain.git
+[submodule "ECAC-BackEnd"]
+	path = ECAC-BackEnd
+	url = https://github.com/ECAC-Education-Cert-And-Community/ECAC-BackEnd.git
+[submodule "ECAC-FrontEnd"]
+	path = ECAC-FrontEnd
+	url = https://github.com/ECAC-Education-Cert-And-Community/ECAC-FrontEnd.git
